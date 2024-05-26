@@ -1,0 +1,27 @@
+.links {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 5px;
+  gap: 100px;
+  list-style-type: none;
+  font-family: Consolas, monaco, monospace;
+  box-shadow: 5px 7px 30px lawngreen;
+  border-radius: 20px;
+  opacity: 0.7;
+  font-size: 60px;
+}
+
+.links:hover {
+  background-color: pink;
+}
+
+.subnav-links {
+  list-style-type: none;
+  background-color: brown;
+}
+
+.main-text {
+  font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman,
+    sans-serif;
+}
